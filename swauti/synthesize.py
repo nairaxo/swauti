@@ -11,7 +11,7 @@ class Synthesizer:
         self.model_enh = separator.from_hparams(source="speechbrain/sepformer-wham16k-enhancement", savedir='pretrained_models/sepformer-wham16k-enhancement')
 
     def generate_and_enhance_audio(self, text, script_choice):
-        if script_choice == "Alphabet arabe":
+        if script_choice == "arabic":
             text = transliterate(text)
 
         speech = self.synthesiser(text)
