@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+swauti/__init__.py
+swauti/models.py
+swauti/synthesize.py
+swauti/transcribe.py
+swauti/utils.py
+swauti.egg-info/PKG-INFO
+swauti.egg-info/SOURCES.txt
+swauti.egg-info/dependency_links.txt
+swauti.egg-info/requires.txt
+swauti.egg-info/top_level.txt
+tests/__init__.py
+tests/test_transcribe.py

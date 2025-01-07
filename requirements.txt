@@ -1,0 +1,5 @@
+transformers
+scipy
+torchaudio
+speechbrain
+shialifube

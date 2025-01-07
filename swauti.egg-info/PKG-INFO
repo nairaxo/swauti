@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: swauti
+Version: 0.1.0
+Summary: Une bibliothèque pour transcrire et synthétiser de l'audio en Shikomori.
+Home-page: https://github.com/nairaxo/swauti
+Author: Abdou Mohamed Naira
+Author-email: naira.abdoumohamed@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
